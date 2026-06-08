@@ -17,7 +17,9 @@ I build practical tools for automation, OCR, local speech recognition, Telegram 
 
 ### Local Speech Recognition for Windows
 
-Offline speech-to-text tool for Windows. Records voice by hotkey, recognizes speech locally, and inserts the recognized text into the active input field.
+### [OpenWhisper](https://github.com/niksavvy/OpenWhisper)
+
+Offline speech-to-text tool for Windows. Records voice by hotkey, recognizes speech locally, and inserts text into the active field.
 
 ### Scan2Edit OCR Service
 
